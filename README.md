@@ -107,7 +107,7 @@ Jarvis-Voice-Assistant/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Jarvis-Voice-Assistant.git
+git clone https://github.com/vishaaall360/Jarvis-Voice-Assistant.git
 cd Jarvis-Voice-Assistant
 
 2️⃣ Create Virtual Environment
